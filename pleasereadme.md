@@ -3,5 +3,4 @@ This is not the real one. This is there for making my (Alino) bspwm rice / bspwm
 
 The "Forest" Rofi is gonna be used in the "Shapes" theme, in order to do that, i need to copy some files and change some files.
 
-Thanks for reading!
-- Alino
+Thanks for reading! Alino
