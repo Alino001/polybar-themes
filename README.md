@@ -1,5 +1,5 @@
 <!-- Polybar Themes-->
-
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/logo.png">
 </p>
